@@ -1,0 +1,4 @@
+# CSVs crus e as fatos geradas. Como reproduzir: data/README.md
+data/raw/*.csv
+data/processed/*.csv
+data/trusted/*.csv
