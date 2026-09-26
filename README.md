@@ -37,6 +37,7 @@ Repositório: https://github.com/0odiego0/DIEGO_GOMES_DDF_TECH_0926
 - Catálogo: https://app.dadosfera.ai/pt-BR/catalog/data-assets/5e679bfc-bf7e-425a-856c-effa23489398
 - Painel Metabase (`Diego Gomes - 09_2026`): https://metabase-treinamentos.dadosfera.ai/dashboard/304-diego-gomes-09-2026
 - Pipeline: não criado. A observação está em `docs/item_8_pipeline.md`.
+- Data App: https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/
 - Vídeo unlisted: a preencher
 
 As consultas do painel, os tipos de gráfico e os prints estão em `docs/sql/consultas.md`.

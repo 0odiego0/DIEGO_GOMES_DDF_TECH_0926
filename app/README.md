@@ -9,4 +9,4 @@ pip install -r app/requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-A publicação no Streamlit Community Cloud ainda não foi feita.
+Publicado em https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/

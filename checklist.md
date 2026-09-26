@@ -38,7 +38,7 @@ Atualizado em 25/09/2026, com o link do painel e as SQL do item 7.
 
 ## Próximo passo
 
-Rodar o app do item 9 com `streamlit run app/streamlit_app.py` e conferir filtro e similares. A observação do item 8 está em `docs/item_8_pipeline.md`.
+Gravar o vídeo unlisted do item 10 e colocar o link no README. O Data App já está em https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/
 
 ## Ainda por fazer
 
@@ -55,7 +55,7 @@ Rodar o app do item 9 com `streamlit run app/streamlit_app.py` e conferir filtro
 
 - [x] Acesso à Dadosfera (usuário `diego.dgadm`).
 - [x] Chave de API de LLM usada no Colab (segredo `open_ai`). O bônus DALL-E ainda não foi feito.
-- [x] Conta Google (Colab) usada no item 5. Streamlit Community Cloud ainda não.
+- [x] Conta Google (Colab) usada no item 5. Data App publicado no Streamlit Community Cloud.
 - [ ] Conta YouTube para o vídeo unlisted.
 
 ### Itens do case (nível Excelente)
@@ -67,7 +67,7 @@ Rodar o app do item 9 com `streamlit run app/streamlit_app.py` e conferir filtro
 - [x] Item 6 no papel. Falta materializar as duas visões na plataforma, se o avaliador cobrar além do `modeling/kimball.md`.
 - [ ] Item 7. Link no README, SQL em `docs/sql/consultas.md` e print da dispersão em `docs/prints/Correlação preço e frete.png`. Confirmar se esse card está no painel junto com barra, linha, tabela e número.
 - [x] Item 8, observação. Pipeline não criado: a lista de Pipelines só tem sistemas online e a fonte é CSV. Texto em `docs/item_8_pipeline.md`. Transformação segue bloqueada.
-- [ ] Item 9. Streamlit de similaridade/EDA, com README de publicação.
+- [x] Item 9. Data App publicado: https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/
 - [ ] Bônus. Gerador de pitch + imagem (DALL-E), prompts em `app/prompts.md`.
 - [ ] Item 10. Vídeo unlisted no YouTube, link testado em janela anônima.
 
