@@ -2,7 +2,7 @@
 
 Contexto para continuar o case sem reler a conversa. O roteiro completo continua em `planejamento.md`. Este arquivo só diz onde paramos.
 
-Atualizado em 25/09/2026, com o link do painel e as SQL do item 7.
+Atualizado em 26/09/2026, com o link do vídeo unlisted no README.
 
 ## Decisões já tomadas
 
@@ -38,7 +38,7 @@ Atualizado em 25/09/2026, com o link do painel e as SQL do item 7.
 
 ## Próximo passo
 
-Gravar o vídeo unlisted do item 10 e colocar o link no README. O Data App já está em https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/
+Item 10 entregue. Vídeo unlisted: [Apresentação do Case - Dadosfera - Diego Gomes](https://www.youtube.com/watch?v=gxHqilwI09A). Data App: https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/
 
 ## Ainda por fazer
 
@@ -56,7 +56,7 @@ Gravar o vídeo unlisted do item 10 e colocar o link no README. O Data App já e
 - [x] Acesso à Dadosfera (usuário `diego.dgadm`).
 - [x] Chave de API de LLM usada no Colab (segredo `open_ai`). O bônus DALL-E ainda não foi feito.
 - [x] Conta Google (Colab) usada no item 5. Data App publicado no Streamlit Community Cloud.
-- [ ] Conta YouTube para o vídeo unlisted.
+- [x] Conta YouTube para o vídeo unlisted.
 
 ### Itens do case (nível Excelente)
 
@@ -65,11 +65,11 @@ Gravar o vídeo unlisted do item 10 e colocar o link no README. O Data App já e
 - [x] Item 4. Relatório Great Expectations em `quality/relatorio_gx.md`. Print: `docs/prints/relatorio_great_expectations.png`.
 - [x] Item 5, geração. Amostra em `data/refined/features_amostra.csv` e notebook em `notebooks/features_llm.ipynb`. Falta anotar o link da carga dessa amostra no README, se a ficha do catálogo já existir.
 - [x] Item 6 no papel. Falta materializar as duas visões na plataforma, se o avaliador cobrar além do `modeling/kimball.md`.
-- [ ] Item 7. Link no README, SQL em `docs/sql/consultas.md` e print da dispersão em `docs/prints/Correlação preço e frete.png`. Confirmar se esse card está no painel junto com barra, linha, tabela e número.
+- [x] Item 7. Link no README, SQL em `docs/sql/consultas.md` e print da dispersão em `docs/prints/Correlação preço e frete.png`. O painel tem barra, linha, tabela, número e dispersão.
 - [x] Item 8, observação. Pipeline não criado: a lista de Pipelines só tem sistemas online e a fonte é CSV. Texto em `docs/item_8_pipeline.md`. Transformação segue bloqueada.
 - [x] Item 9. Data App publicado: https://diegogomesddftech0926-2oytppb9rtbdi2ame7hjfw.streamlit.app/
 - [ ] Bônus. Gerador de pitch + imagem (DALL-E), prompts em `app/prompts.md`.
-- [ ] Item 10. Vídeo unlisted no YouTube, link testado em janela anônima.
+- [x] Item 10. Vídeo unlisted: https://www.youtube.com/watch?v=gxHqilwI09A
 
 Núcleo primeiro. Spark, API de catálogo, Power BI, Common Data Model e microtransformação SQL só entram com o nível Excelente já de pé.
 

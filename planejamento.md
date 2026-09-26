@@ -38,7 +38,7 @@ O case é uma prova de conceito de que a Dadosfera é o caminho mais rápido ent
 - [ ] Conta Google (Colab) e, se for publicar o app, Streamlit Community Cloud.
 - [ ] Chave de API de LLM (OpenAI ou equivalente) para o item 5 e o bônus DALL-E.
 - [ ] Conta Kaggle (download do Olist) e, opcional, projeto no Google Cloud para BigQuery/IBGE.
-- [ ] Conta YouTube para vídeo unlisted.
+- [x] Conta YouTube para vídeo unlisted. Link: https://www.youtube.com/watch?v=gxHqilwI09A
 - [ ] Pasta local de prints (`docs/prints/`) já criada para evidências.
 
 Não compartilhar o usuário da Dadosfera com outra pessoa.
@@ -558,8 +558,8 @@ O vídeo deve passar por **todos os ativos** dos itens anteriores e responder **
 - [ ] Passar por todos os ativos criados.
 - [ ] Pelo menos uma das quatro teses, de forma explícita.
 - [ ] Diagrama da solução (pode ser o Mermaid deste arquivo ou o do item 6).
-- [ ] Upload unlisted; testar o link em janela anônima.
-- [ ] Link no README.
+- [x] Upload unlisted: [Apresentação do Case - Dadosfera - Diego Gomes](https://www.youtube.com/watch?v=gxHqilwI09A).
+- [x] Link no README.
 - [ ] Nada “só na máquina local”: tudo catalogado ou reproduzível no GitHub.
 
 ---
@@ -572,7 +572,7 @@ Tudo abaixo vive no `README.md` (com âncoras) e em `docs/prints/`:
 - [ ] Prints de: carga, volume ≥ 100k, dicionário/catálogo, GE, features LLM, DW, 5 gráficos, SQL + resultado, pipeline, Streamlit, DALL-E, coleção Metabase.
 - [ ] SQL das perguntas do item 7.
 - [ ] Como subir o Data App (local + Cloud).
-- [ ] Link do vídeo unlisted.
+- [x] Link do vídeo unlisted: https://www.youtube.com/watch?v=gxHqilwI09A
 - [ ] Nome do repo no padrão `PRIMEIRO_ULTIMO_DDF_TECH_092026`.
 
 ### Escala de avaliação (lembrete)
