@@ -38,7 +38,7 @@ Atualizado em 25/09/2026, com o link do painel e as SQL do item 7.
 
 ## Próximo passo
 
-Seguir para o vídeo unlisted, o app Streamlit e o bônus DALL-E. O repositório público está em https://github.com/0odiego0/DIEGO_GOMES_DDF_TECH_0926.
+Rodar o app do item 9 com `streamlit run app/streamlit_app.py` e conferir filtro e similares. A observação do item 8 está em `docs/item_8_pipeline.md`.
 
 ## Ainda por fazer
 
@@ -66,7 +66,7 @@ Seguir para o vídeo unlisted, o app Streamlit e o bônus DALL-E. O repositório
 - [x] Item 5, geração. Amostra em `data/refined/features_amostra.csv` e notebook em `notebooks/features_llm.ipynb`. Falta anotar o link da carga dessa amostra no README, se a ficha do catálogo já existir.
 - [x] Item 6 no papel. Falta materializar as duas visões na plataforma, se o avaliador cobrar além do `modeling/kimball.md`.
 - [ ] Item 7. Link no README, SQL em `docs/sql/consultas.md` e print da dispersão em `docs/prints/Correlação preço e frete.png`. Confirmar se esse card está no painel junto com barra, linha, tabela e número.
-- [ ] Item 8. Pipeline catalogado (`trusted` → `refined`).
+- [x] Item 8, observação. Pipeline não criado: a lista de Pipelines só tem sistemas online e a fonte é CSV. Texto em `docs/item_8_pipeline.md`. Transformação segue bloqueada.
 - [ ] Item 9. Streamlit de similaridade/EDA, com README de publicação.
 - [ ] Bônus. Gerador de pitch + imagem (DALL-E), prompts em `app/prompts.md`.
 - [ ] Item 10. Vídeo unlisted no YouTube, link testado em janela anônima.

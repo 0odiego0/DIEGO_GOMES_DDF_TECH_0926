@@ -36,7 +36,7 @@ Repositório: https://github.com/0odiego0/DIEGO_GOMES_DDF_TECH_0926
 - Coleta: https://app.dadosfera.ai/pt-BR/collect/import-files/042644c1-7b87-4cca-9ce1-db15150e2ace
 - Catálogo: https://app.dadosfera.ai/pt-BR/catalog/data-assets/5e679bfc-bf7e-425a-856c-effa23489398
 - Painel Metabase (`Diego Gomes - 09_2026`): https://metabase-treinamentos.dadosfera.ai/dashboard/304-diego-gomes-09-2026
-- Pipeline: a preencher
+- Pipeline: não criado. A observação está em `docs/item_8_pipeline.md`.
 - Vídeo unlisted: a preencher
 
 As consultas do painel, os tipos de gráfico e os prints estão em `docs/sql/consultas.md`.
@@ -52,4 +52,6 @@ As consultas do painel, os tipos de gráfico e os prints estão em `docs/sql/con
 | `docs/carga_dadosfera.md` | O que fazer no módulo de Coleta |
 | `quality/relatorio_gx.md` | Relatório do item 4 (Great Expectations) |
 | `docs/sql/consultas.md` | SQL, tipos de gráfico e prints do item 7 |
+| `docs/item_8_pipeline.md` | Por que o pipeline do item 8 não foi criado |
 | `notebooks/features_llm.ipynb` | Notebook do item 5, cópia do Colab |
+| `app/streamlit_app.py` | Data App do item 9 |
